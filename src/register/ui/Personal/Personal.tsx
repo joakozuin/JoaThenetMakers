@@ -79,6 +79,7 @@ export default function Personal({setForm} : {setForm: any}){
 
     return (
         <>
+         <h2 className={styles.title}>Joako Zuin.</h2>
             <h2 className={styles.title}>Todos somos Makers.</h2>
             <p className={styles.comment}>
                 Completa el formulario y el equipo de NetMakers<br/>
