@@ -7,6 +7,8 @@ export default function Register(){
     const formOption = {personal: <Personal setForm={setForm}/>, labor: <Labor setForm={setForm}/>}; // options[1] === Labor
 
 /* 13-4-2024 */
+
+/* saturdays */
     return (
 
         <>
